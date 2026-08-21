@@ -51,7 +51,7 @@
 </head>
 <body>
   <h1>This Site is Brand New</h1>
-  <h3>Please check back again soon</h3>
+  <h3>GO 17,0000 Angry Bees</h3>
   <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 </body>
 </html>
